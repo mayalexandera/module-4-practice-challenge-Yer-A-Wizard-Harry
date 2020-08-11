@@ -1,6 +1,6 @@
 import React from "react";
 
-const Wizard = ({ name, house }) => {
+const Wizard = ({name, house}) => {
   return (
     <div className="Wizard">
       <div>{name}</div>
